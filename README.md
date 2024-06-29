@@ -18,4 +18,4 @@
 
 ## Important Notice
 
-**Warning**: Remember that copying these projects to make yours, might get you caught by a plagiarism test.
+**Warning**: Remember that copying this project to make yours, might get you caught by a plagiarism test.
